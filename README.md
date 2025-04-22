@@ -1,2 +1,2 @@
 # ftp
-FTP protocol in c++
+FTP protocol in python
